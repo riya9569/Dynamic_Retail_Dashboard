@@ -104,13 +104,14 @@ To enhance the dashboard, future developments will focus on:
 - **Market Analysis**: Analyzing performance across various markets.  
 - **Product Performance**: Diving deeper into product-specific metrics.  
 
----
+---![image](https://github.com/user-attachments/assets/1a06ada5-0831-43c0-94ad-d66d38320a2f)
+
 
 ## **Conclusion**  
 
 The Dynamic Retail Dashboard offers a powerful solution for analyzing retail performance. By leveraging KPIs and interactive visualizations, it empowers users to make data-driven decisions and optimize business strategies. As enhancements are implemented, this tool will continue to deliver deeper insights and value for retail management.  
 
-![image](https://github.com/user-attachments/assets/3d1de9b8-1d3c-45a2-8c56-8171080e70e5)
+
 
 
 
