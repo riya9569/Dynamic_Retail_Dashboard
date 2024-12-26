@@ -32,22 +32,28 @@ The following insights have been derived using the dashboard:
    - Total sales, total profit, total quantity, number of orders, and profit margin.  
 
 2. **Profit and Sales Analysis**:  
-   - Analyzed the relationship between sales and profits to identify trends.  
+   - Analyzed the relationship between sales and profits to identify trends.
+   - ![image](https://github.com/user-attachments/assets/6755f517-f529-4f31-9b6c-cec72770cd93)
 
 3. **Category-wise Performance**:  
    - Evaluated profit contributions from different product categories.  
+     ![image](https://github.com/user-attachments/assets/c67a79d4-41c7-4d4e-949e-06666286e305)
 
 4. **Segment Analysis**:  
    - Analyzed sales share across customer segments.  
+     ![image](https://github.com/user-attachments/assets/047ea96c-18ab-4f26-9554-1a1883aec1fc)
 
 5. **Geographic Insights**:  
    - Performed country-wise and region-wise sales performance analysis.  
+      ![image](https://github.com/user-attachments/assets/547807a1-ba91-4c35-ae2a-63fe25a61140)
 
 6. **Top & Bottom Subcategories**:  
    - Identified the top 5 best-performing and bottom 5 underperforming subcategories.  
+      ![image](https://github.com/user-attachments/assets/16e22f6f-f525-4c8d-bd70-9bcdfe20f830)
 
 7. **Yearly Trends**:  
    - Visualized yearly sales performance to spot growth or decline patterns.  
+      ![image](https://github.com/user-attachments/assets/a52cfe4f-5e64-4fa0-9615-7af0dac2a313)
 
 ---
 
@@ -103,6 +109,10 @@ To enhance the dashboard, future developments will focus on:
 ## **Conclusion**  
 
 The Dynamic Retail Dashboard offers a powerful solution for analyzing retail performance. By leveraging KPIs and interactive visualizations, it empowers users to make data-driven decisions and optimize business strategies. As enhancements are implemented, this tool will continue to deliver deeper insights and value for retail management.  
+
+![image](https://github.com/user-attachments/assets/3d1de9b8-1d3c-45a2-8c56-8171080e70e5)
+
+
 
 
 
