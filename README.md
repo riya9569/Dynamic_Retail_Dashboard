@@ -1,3 +1,4 @@
+# Dynamic Retail Dashboard
 This repository contains a Dynamic Retail Dashboard built using data from three key tables: **Orders**, **People**, and **Returns**. The dashboard provides insightful analyses and critical Key Performance Indicators (KPIs) to aid in understanding retail performance and making informed business decisions.  
 
 ---
